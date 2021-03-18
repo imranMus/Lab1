@@ -16,6 +16,6 @@ public class weightcal {
 		double earthWeight = mass * 9.80665;
 		double marsWeight = mass * 3.711;
 		
-		System.out.println("Mass: "+mass+"KG\nWeight on Earth: " +earthWeight+"N\nWeight on Mars: "+marsWeight+"N");
+		System.out.println("Mass: "+mass+"KG\nWeight on Earth: " +earthWeight+"N\nWeight on Mars: "+marsWeight+"N\n");
 	}
 }
